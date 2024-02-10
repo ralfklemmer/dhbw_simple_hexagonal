@@ -1,1 +1,1 @@
-# dhbw_simple_hexagonal
+# Einstiegsprojekt in Hexagonale Architekturen
